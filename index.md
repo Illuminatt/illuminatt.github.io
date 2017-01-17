@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+In this tutorial will be explained how to start automating test-cases with Selenium Web-Driver.
 
-[Link to another page](another-page).
+<!--[Link to another page](another-page).-->
 
 There should be whitespace between paragraphs.
 
