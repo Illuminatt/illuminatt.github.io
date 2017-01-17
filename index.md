@@ -6,11 +6,11 @@ In this tutorial will be explained how to start automating test-cases with Selen
 
 <!--[Link to another page](another-page).-->
 
-There should be whitespace between paragraphs.
+With selenium Web-Driver the user can only automate test-cases for Web-Sites.
+Therefore I will explain how everything works with Python. It is also possible
+to write the test-cases with Javascript or C++.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
+## [](#header-1)Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
