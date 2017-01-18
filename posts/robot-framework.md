@@ -24,3 +24,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 it means that python was installed correctly.  
+
+4. Go to the next page
