@@ -23,4 +23,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
-    it means, that you have installed everything successfully.
+    it means
