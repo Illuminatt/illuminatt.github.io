@@ -6,7 +6,8 @@ Sadly robot-framework is still not working with Python 3.6.0 so first of all you
 
 1. Install python from [here](https://www.python.org/downloads/). During installation also check the box to install python in PATH.
 
-![](/images/Python_install.png)
+    ![](/images/Python_install.png)
+    *figure 1** the new keyboard..wonder if it's good
 
 2. Then install an alternative [tool for command line](https://conemu.github.io/). It has more adaptive design and tabs!
-3. 
+3.
