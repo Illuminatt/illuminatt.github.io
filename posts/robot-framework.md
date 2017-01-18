@@ -17,11 +17,11 @@ Sadly robot-framework is still not working with Python 3.6.0 for web-page testin
 
     If you see the following message:
 
-        python
+        ```python
         Python 2.7.13 (v2.7.13:a06454b1afa1, Dec 17 2016, 20:42:59) [MSC v.1500 32 bit (Intel)] on win32
         Type "help", "copyright", "credits" or "license" for more information.
         >>>
-
+        ```
 
     it means that python was installed correctly.  
 
