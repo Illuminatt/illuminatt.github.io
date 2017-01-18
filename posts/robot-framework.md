@@ -13,7 +13,7 @@ Sadly robot-framework is still not working with Python 3.6.0 for web-page testin
 2. Install an alternative tool for command line - [ConEmu](https://conemu.github.io/). It has more adaptive design and tabs!
 3. Open ConEmu and print "python"
 
-    ![](/images/conemu_python)
+    ![](/images/conemu_python.png)
 
     If you see the following message:
 
