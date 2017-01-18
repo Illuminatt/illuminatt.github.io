@@ -3,7 +3,6 @@ layout: post
 title:  "Welcome to GitHub Pages"
 date:   2017-01-18 13:28:01 +0100
 categories: GitHub, blog
-theme: jekyll-theme-midnight
 ---
 
 ## Welcome to GitHub Pages
