@@ -85,6 +85,6 @@ Also output, report and log will be created. If the test-case fails a screenshot
 
 Typical example of the test-case report:
 
-![](/images/report.png)
+![](/images/Report.png)
 
 [Home](https://illuminatt.github.io)
