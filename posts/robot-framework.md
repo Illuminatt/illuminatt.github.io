@@ -40,7 +40,7 @@ Sadly robot-framework is still not working with Python 3.6.0 for web-page testin
 
         pip --version
 
-In response can be seen the version of pip and where it was installed.
+    In response can be seen the version of pip and where it was installed.
 
         $ pip --version
         pip 9.0.1 from c:\python27\lib\site-packages (python 2.7)
