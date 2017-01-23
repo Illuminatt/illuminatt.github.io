@@ -36,16 +36,28 @@ Sadly robot-framework is still not working with Python 3.6.0 for web-page testin
     it means that python was installed correctly.  
 
 4. To exit from python console use "Ctrl+Z"
-5. Python only started bundling pip with Python 2.7.9. If the latest Python was installed than it means, that pip is also aready in the package. It can be checked by typing:
+5. Python only started bundling pip with Python 2.7.9. If the latest Python was installed then it means, that pip is also aready in the package. It can be checked by typing:
 
         pip --version
 
-    In response can be seen the version of pip and where it was installed.
+    In response can be seen the version of pip and where it was installed:
 
         $ pip --version
         pip 9.0.1 from c:\python27\lib\site-packages (python 2.7)
 
+6. After installing Python install robot-framework:
 
+        pip install robotframework
+
+7. An then for testing web-pages install selenium library:
+
+        pip install robotframework-selenium2library
+
+8. Also install docutils for some reStructuredText markup language for test data
+
+        pip install docutils
+
+9. Download [geckodriver](https://github.com/mozilla/geckodriver/releases) and save it to the folder with test-cases.
 
 
 [Home](https://illuminatt.github.io)

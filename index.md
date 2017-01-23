@@ -7,3 +7,5 @@ layout: default
 1. Readme. [How to write with Markdown](/posts/how-to-write-with-a-markdown).
 
 2. [How to install robot framework](/posts/robot-framework).
+
+3. [Writing first test with robot framework](/posts/first-test)
