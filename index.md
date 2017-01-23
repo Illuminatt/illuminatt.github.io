@@ -9,3 +9,5 @@ layout: default
 2. [How to install robot framework](/posts/robot-framework).
 
 3. [Writing first test with robot framework](/posts/first-test)
+
+4. [Tips for robotframework](/posts/Tips-and-Tricks)
