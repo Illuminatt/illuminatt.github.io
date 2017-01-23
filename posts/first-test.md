@@ -64,7 +64,7 @@ Here is the ressource.robot file with variables and kontext words
 
 To start the test go to source folder and execute the robot test suite. In this case Test-Suite-Name.robot:
 
-        robot robot Search_bing.robot
+        robot Search_bing.robot
 
 Following result is to be seen if the test-case run correctly.
 
@@ -85,6 +85,6 @@ Also output, report and log will be created. If the test-case fails a screenshot
 
 Typical example of the test-case report:
 
-    ![](/images/report.png)
+![](/images/report.png)
 
 [Home](https://illuminatt.github.io)
