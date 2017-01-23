@@ -36,9 +36,9 @@ Sadly robot-framework is still not working with Python 3.6.0 for web-page testin
     it means that python was installed correctly.  
 
 4. To exit from python console use "Ctrl+Z"
-5.
+5. 
 
 
 
 
-[Go back to main](https://illuminatt.github.io)
+[Home](https://illuminatt.github.io)
