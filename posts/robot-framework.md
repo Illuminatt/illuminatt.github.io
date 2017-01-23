@@ -41,4 +41,4 @@ Sadly robot-framework is still not working with Python 3.6.0 for web-page testin
 
 
 
-[Go back to main](https://www.illuminatt.github.io)
+[Go back to main](https://illuminatt.github.io)
