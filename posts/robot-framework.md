@@ -1,7 +1,7 @@
 ## How to install robot framework on your windows machine
 
-Robot-framework is a test-automating tool which is based on Python language. 
-Robot-framework based on simple keywork-driven synthax. Everyone can start with this frameowrk, even without great developer experience.
+Robot-framework is a test-automating tool which is based on Python language.
+It is based on simple keyword-driven synthax. Everyone can start with this frameowrk, even without great developer experience.
 
 Here is an example of the test written with robot-framework:
 
@@ -37,3 +37,5 @@ Sadly robot-framework is still not working with Python 3.6.0 for web-page testin
 
 4. To exit from python console use "Ctrl+Z"
 5.
+
+[Go back to main page](illuminatt.github.io)
