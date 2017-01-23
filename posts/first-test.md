@@ -1,10 +1,10 @@
 In this chapter will be described how to write the simpliest test with robotframework.
 
-The file structure is pretty simple. There should be at least 3 files: geckodriver for starting test on Firefox, resource.robot for variabes and keywords and Test-Suite-Name.robot - the test suite itself.
+The file structure is pretty simple. There should be at least 3 files: _geckodriver.exe_ for starting test on Firefox, _resource.robot_ for variabes and keywords and _Test-Suite-Name.robot_ - the test suite itself.
 
-- geckodriver is a driver for Firefox Browser
-- resource.robot is a configuration file for context words and variables
-- Test-Suite-Name.robot is the Test Suite itself.
+- _geckodriver.exe_ is a driver for Firefox Browser
+- _resource.robot_ is a configuration file for context words and variables
+- _Test-Suite-Name.robot_ is the Test Suite itself.
 
 Down below is an example of Simple Search with Bing. The meaning of the keywords will be further explained.
 
