@@ -9,7 +9,7 @@ Here are some tips about for successfull creating test-cases with robotframework
 
 ![](/images/devtools-id.png)
 
-"20" is 20 seconds of timeout
+"20" is 20 seconds of timeout 
 "1" means that robotframework will check every second if the ID has appeared on the website
 
 [Home](https://illuminatt.github.io)
