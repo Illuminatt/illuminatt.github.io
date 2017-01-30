@@ -1,9 +1,9 @@
-## How to install robot framework on your windows machine
+## How to install Robot Framework on your windows machine
 
 Robot-framework is a test-automating tool which is based on Python language.
 It is based on simple keyword-driven synthax. Everyone can start with this frameowrk, even without great developer experience.
 
-Here is an example of the test written with robot-framework:
+Here is an example of the test written with Robot Framework:
 
         *** Test cases ***
         Valid Login
@@ -16,7 +16,7 @@ Here is an example of the test written with robot-framework:
 
 Here will be described how to start automating your test-cases for web-pages using this mighty framework.
 
-Sadly robot-framework is still not working with Python 3.6.0 for web-page testing so first of all you need to install Python 2.7 and pip.
+Sadly Robot Framework is still not working with Python 3.6.0 for web-page testing so first of all you need to install Python 2.7 and pip.
 
 1. Install python from [here](https://www.python.org/downloads/). During installation also check the box to install python in PATH.
 
@@ -45,7 +45,7 @@ Sadly robot-framework is still not working with Python 3.6.0 for web-page testin
         $ pip --version
         pip 9.0.1 from c:\python27\lib\site-packages (python 2.7)
 
-6. After installing Python install robot-framework:
+6. After installing Python install Robot Framework:
 
         pip install robotframework
 
