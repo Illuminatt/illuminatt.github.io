@@ -1,4 +1,4 @@
-In this chapter will be described how to write the simpliest test with robotframework.
+In this chapter will be described how to write the simpliest test with Robot Framework.
 
 The file structure is pretty simple. There should be at least 3 files: _geckodriver.exe_ for starting test on Firefox, _resource.robot_ for variabes and keywords and _Test-Suite-Name.robot_ - the test suite itself.
 
